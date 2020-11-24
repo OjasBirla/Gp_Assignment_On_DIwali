@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(255, 244, 141);
+}
+
+#Know_About_Diwali_Conatiner{
+    display: flex;
+
+    justify-content: space-around;
+    align-items: center;
+
+    height: 100vh;
+    width: auto;
+}
+
+#Know_About_Diwali{
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 50px;
+    width: 150px;
+    background-color: rgb(50, 255, 50);
+}
+#Know_About_Diwali:hover{
+    background-color: rgb(100, 255, 100);
+}
+
+.Image-1{
+    width: 80%;
+    height: 70%;
+}
+.Image-2{
+    width: 30%;
+    height: 80%;
+}
+
+#Kown_Why_Do_We_Celebrate{
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 50px;
+    width: 150px;
+    background-color: rgb(50, 255, 50);
+}
+#Kown_Why_Do_We_Celebrate:hover{
+    background-color: rgb(100, 255, 100);
+}
+
+#Look_At_Few_Pictures{
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 50px;
+    width: 150px;
+    background-color: rgb(50, 255, 50);
+}
+#Look_At_Few_Pictures:hover{
+    background-color: rgb(100, 255, 100);
+}
+
+.Image-3{
+    width: 300px;;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 20px;
+}
